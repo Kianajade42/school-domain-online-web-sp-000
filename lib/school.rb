@@ -1,4 +1,4 @@
-class School 
+class School
   attr_accsessor :roster, :name
 def initialize(name)
   @name = name
